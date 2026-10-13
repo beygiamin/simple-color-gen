@@ -1,7 +1,20 @@
-# Tauri + React + Typescript
+# Simple Color Generator
 
-This template should help get you started developing with Tauri, React and Typescript in Vite.
+A small desktop app for choosing a color and viewing a set of matching shades.
 
-## Recommended IDE Setup
+This is just a simple learning program built to explore React, TypeScript, and Tauri.
 
-- [VS Code](https://code.visualstudio.com/) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
+## Run locally
+
+Install the dependencies, then start the app:
+
+```sh
+npm install
+npm run tauri dev
+```
+
+## Tests
+
+```sh
+npm test
+```
